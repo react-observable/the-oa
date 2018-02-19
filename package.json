@@ -1,0 +1,37 @@
+{
+  "name": "the-oa",
+  "version": "0.1.0",
+  "description": "observable-base animation",
+  "main": "dist/bundle.umd.js",
+  "module": "dist/bundle.esm.js",
+  "scripts": {
+    "watch": "rollup -c rollup.config.js -w",
+    "test": "jest --watchAll",
+    "build": "rollup -c rollup.config.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jerry-Hong/the-oa.git"
+  },
+  "keywords": [
+    "Observable",
+    "Animation"
+  ],
+  "author": "Jerry-Hong <s6323859@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Jerry-Hong/the-oa/issues"
+  },
+  "homepage": "https://github.com/Jerry-Hong/the-oa#readme",
+  "dependencies": {
+    "framesync": "^3.1.7",
+    "rxjs": "^5.5.6"
+  },
+  "devDependencies": {
+    "jest": "^22.2.2",
+    "jest-babel": "^1.0.1",
+    "rollup": "^0.56.1",
+    "rollup-plugin-filesize": "^1.5.0",
+    "rollup-plugin-node-resolve": "^3.0.3"
+  }
+}
