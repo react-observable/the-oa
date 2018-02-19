@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Jerry-Hong/the-oa.git"
+    "url": "git+https://github.com/react-observable/the-oa.git"
   },
   "keywords": [
     "Observable",
