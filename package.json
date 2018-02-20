@@ -1,6 +1,6 @@
 {
   "name": "the-oa",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "observable-base animation",
   "main": "dist/bundle.umd.js",
   "module": "dist/bundle.esm.js",
