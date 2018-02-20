@@ -8,6 +8,18 @@
 - **Fast**: Dispatch value on animation frame without any waste.
 - **Tiny**: Only **4 kb** (without gzip)
 
+## Install
+
+```bash
+npm install the-oa --save
+```
+
+or 
+
+```bash
+yarn add the-oa
+```
+
 ## Usage
 
 ```javascript
