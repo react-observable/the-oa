@@ -25,9 +25,13 @@ tween({
 });
 ```
 
+## Demo
+
+[![Edit the-oa](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/v07llx1l90)
+
 ## API
 
-### `tween(config)`
+### `tween(config): Observable`
 
 **Arguments**
 
