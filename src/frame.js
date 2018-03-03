@@ -2,7 +2,6 @@ import {
   cancelOnFrameUpdate,
   onFrameUpdate,
   currentTime,
-  currentFrameTime,
   timeSinceLastFrame,
 } from 'framesync';
 import { Observable } from 'rxjs/Observable';
